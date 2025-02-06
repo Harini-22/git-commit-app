@@ -81,6 +81,9 @@ Get commit diff:
 
 GET /repositories/{owner}/{repo}/commits/{commitOid}/diff
 
+### Sample repo
+http://localhost:3000/repositories/golemfactory/clay/commits/a1bf367b3af680b1182cc52bb77ba095764a11f9
+
 ### Backend env
 GITHUB_TOKEN = your token from github
 
